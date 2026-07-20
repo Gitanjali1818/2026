@@ -1,0 +1,8 @@
+line1: linux io
+line2: linux io
+line3: linux co
+line4: using tee commands
+line5: using head
+line6: using tail
+line7: using tee
+line8: done it
